@@ -1,0 +1,18 @@
+{
+  "name": "ahmad",
+  "version": "1.0.0",
+  "description": "latihan",
+  "main": "index.js",
+  "scripts": {
+    "test": "testbaru",
+    "server": "node index.js"
+  },
+  "keywords": [
+    "cek"
+  ],
+  "author": "pratama",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
